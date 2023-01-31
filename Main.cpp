@@ -26,7 +26,7 @@ void* memcpy_code(void* dest, void* src, int size)
 	return 0;
 }
 
-int main(void)
+int main(void) 
 {
 	printf("Hello world\n");
 	int i = 0;
